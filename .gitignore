@@ -1,4 +1,4 @@
-node_modules
+
 
 #-------------------------
 # Operating Specific Junk Files
@@ -46,6 +46,8 @@ $RECYCLE.BIN/
 .env
 .vagrant
 Vagrantfile
+
+node_modules/
 
 #-------------------------
 # Temporary Files
